@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: tonirecio/gatsby-starter-rocket-docs
+  branch: master
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: usage
+    label: usage
+    folder: usage
+    create: true
+    fields:
+      - { name: path, label: Path }      
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }

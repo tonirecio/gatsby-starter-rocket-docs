@@ -12,9 +12,11 @@
     "gatsby-plugin-canonical-urls": "^3.0.0",
     "gatsby-plugin-google-analytics": "^3.0.0",
     "gatsby-plugin-manifest": "^3.0.0",
+    "gatsby-plugin-netlify-cms": "^5.3.0",
     "gatsby-plugin-offline": "^4.0.0",
     "gatsby-plugin-remove-trailing-slashes": "^3.0.0",
     "gatsby-plugin-sitemap": "^3.0.0",
+    "netlify-cms-app": "^2.14.45",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"

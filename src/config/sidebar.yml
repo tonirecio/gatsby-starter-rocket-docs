@@ -12,6 +12,14 @@
       link: '/usage/navigation'
     - label: 'Shadowing'
       link: '/usage/shadowing'
+- label: ACME
+  items:
+    - label: 'Looney Toons'
+      link: '/acme/looneytoons'     
+- label: TEST
+  items:
+    - label: 'Hello'
+      link: '/hello.md'           
 - label: More
   items:
     - label: FAQ
